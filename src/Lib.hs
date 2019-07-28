@@ -1,6 +1,7 @@
 module Lib
     ( grid,
-    languages
+    languages,
+    grid
     ) where
 
 import Data.List (isInfixOf, transpose)
